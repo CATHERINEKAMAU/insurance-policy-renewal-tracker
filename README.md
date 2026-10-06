@@ -87,6 +87,6 @@ The demo file contains 60 fictional policies so you can see every view working. 
 
 ## About
 
-Built by Catherine, Business Analyst at Vision One Group, Nairobi. Connect with me on LinkedIn: [add link].
+Built by Catherine, Business Analyst based in Nairobi. Connect with me on LinkedIn: [https://www.linkedin.com/in/catherine-kamau-analyst/].
 
 All data in this repository is fictional.
